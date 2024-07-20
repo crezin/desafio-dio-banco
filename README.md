@@ -2,15 +2,7 @@
 
 Este projeto é uma implementação simples de um sistema bancário digital em Java, utilizando os princípios de Orientação a Objetos. O sistema oferece duas classes principais de contas: Conta Corrente e Conta Poupança, com funcionalidades básicas como depósito, saque e transferência entre contas.
 
-## Índice
 
-- [Descrição do Projeto](#descrição-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Executar](#como-executar)
-- [Funcionalidades](#funcionalidades)
-- [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Descrição do Projeto
 
