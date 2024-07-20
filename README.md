@@ -8,10 +8,6 @@ Este projeto é uma implementação simples de um sistema bancário digital em J
 
 O objetivo deste projeto é demonstrar a aplicação dos conceitos de Orientação a Objetos (OO) em Java, criando um sistema que simula operações bancárias comuns. O sistema é modular e permite fácil extensão e manutenção.
 
-## Tecnologias Utilizadas
-
-- **Java**: A linguagem de programação utilizada para implementar o sistema.
-- **IDE**: Qualquer IDE que suporte Java, como IntelliJ IDEA, Eclipse ou NetBeans.
 
 ## Estrutura do Projeto
 
